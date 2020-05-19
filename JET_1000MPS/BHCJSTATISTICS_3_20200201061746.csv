@@ -1,0 +1,2 @@
+sendingInterval,sendingIntervalTimeUnit,Query,Topic,Correct,RT-Fulfilled,RT-90%ile in ms,RT-Min in ms,RT-Max in ms,RT-Mean in ms,Input,Expected Output,Actual Output,False Output,Correctness %,ValidatorRuntime in s
+1000000,NANOSECONDS,Statistics,BHCJSTATISTICS-3-Statistics,true,true,23.0,9.0,695.0,19.87,299796,300,300,0,100.0,5

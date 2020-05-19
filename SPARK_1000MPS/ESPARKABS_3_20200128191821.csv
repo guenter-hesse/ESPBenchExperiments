@@ -1,0 +1,2 @@
+sendingInterval,sendingIntervalTimeUnit,Query,Topic,Correct,RT-Fulfilled,RT-90%ile in ms,RT-Min in ms,RT-Max in ms,RT-Mean in ms,Input,Expected Output,Actual Output,False Output,Correctness %,ValidatorRuntime in s
+1000000,NANOSECONDS,AbsoluteThreshold,ESPARKABS-3-AbsoluteThreshold,true,true,560.0,115.0,770.0,370.33,299806,1261,1261,0,100.0,6

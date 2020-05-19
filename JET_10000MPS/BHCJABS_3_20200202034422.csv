@@ -1,0 +1,2 @@
+sendingInterval,sendingIntervalTimeUnit,Query,Topic,Correct,RT-Fulfilled,RT-90%ile in ms,RT-Min in ms,RT-Max in ms,RT-Mean in ms,Input,Expected Output,Actual Output,False Output,Correctness %,ValidatorRuntime in s
+100000,NANOSECONDS,AbsoluteThreshold,BHCJABS-3-AbsoluteThreshold,true,true,15.0,5.0,923.0,14.57,2998068,12586,12586,0,100.0,23

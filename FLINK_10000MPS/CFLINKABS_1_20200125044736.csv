@@ -1,0 +1,2 @@
+sendingInterval,sendingIntervalTimeUnit,Query,Topic,Correct,RT-Fulfilled,RT-90%ile in ms,RT-Min in ms,RT-Max in ms,RT-Mean in ms,Input,Expected Output,Actual Output,False Output,Correctness %,ValidatorRuntime in s
+100000,NANOSECONDS,AbsoluteThreshold,CFLINKABS-1-AbsoluteThreshold,true,false,17063.0,3.0,21141.0,4878.98,2997982,12586,12586,0,100.0,22

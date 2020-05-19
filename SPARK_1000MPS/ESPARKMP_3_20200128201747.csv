@@ -1,0 +1,2 @@
+sendingInterval,sendingIntervalTimeUnit,Query,Topic,Correct,RT-Fulfilled,RT-90%ile in ms,RT-Min in ms,RT-Max in ms,RT-Mean in ms,Input,Expected Output,Actual Output,False Output,Correctness %,ValidatorRuntime in s
+1000000,NANOSECONDS,MachinePower,ESPARKMP-3-MachinePower,true,true,984.2,145.0,1381.0,635.0,599496,26263,26263,0,100.0,33

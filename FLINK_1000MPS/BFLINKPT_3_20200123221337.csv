@@ -1,0 +1,2 @@
+sendingInterval,sendingIntervalTimeUnit,Query,Topic,Correct,RT-Fulfilled,RT-90%ile in ms,RT-Min in ms,RT-Max in ms,RT-Mean in ms,Input,Expected Output,Actual Output,False Output,Correctness %,ValidatorRuntime in s
+1000000,NANOSECONDS,ProcessingTimes,BFLINKPT-3-ProcessingTimes,true,false,102198.5,323.0,110416.0,61799.26,299809,299809,299809,0,100.0,147

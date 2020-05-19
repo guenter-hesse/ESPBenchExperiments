@@ -1,0 +1,2 @@
+sendingInterval,sendingIntervalTimeUnit,Query,Topic,Correct,RT-Fulfilled,RT-90%ile in ms,RT-Min in ms,RT-Max in ms,RT-Mean in ms,Input,Expected Output,Actual Output,False Output,Correctness %,ValidatorRuntime in s
+100000,NANOSECONDS,ProcessingTimes,CFLINKPT-1-ProcessingTimes,true,false,2055978.8,3051.0,2250180.0,1168349.7,1802884,1802884,1802884,0,100.0,851

@@ -1,0 +1,2 @@
+sendingInterval,sendingIntervalTimeUnit,Query,Topic,Correct,RT-Fulfilled,RT-90%ile in ms,RT-Min in ms,RT-Max in ms,RT-Mean in ms,Input,Expected Output,Actual Output,False Output,Correctness %,ValidatorRuntime in s
+100000,NANOSECONDS,AbsoluteThreshold,FSPARKABS-1-AbsoluteThreshold,true,true,635.0,146.0,1175.0,425.39,2998027,12586,12586,0,100.0,23

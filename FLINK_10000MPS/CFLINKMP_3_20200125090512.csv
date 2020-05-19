@@ -1,0 +1,2 @@
+sendingInterval,sendingIntervalTimeUnit,Query,Topic,Correct,RT-Fulfilled,RT-90%ile in ms,RT-Min in ms,RT-Max in ms,RT-Mean in ms,Input,Expected Output,Actual Output,False Output,Correctness %,ValidatorRuntime in s
+100000,NANOSECONDS,MachinePower,CFLINKMP-3-MachinePower,true,false,476916.1,2668.0,520029.0,271943.76,5994736,265213,265213,0,100.0,267

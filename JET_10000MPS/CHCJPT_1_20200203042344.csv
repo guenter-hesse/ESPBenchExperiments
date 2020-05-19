@@ -1,0 +1,2 @@
+sendingInterval,sendingIntervalTimeUnit,Query,Topic,Correct,RT-Fulfilled,RT-90%ile in ms,RT-Min in ms,RT-Max in ms,RT-Mean in ms,Input,Expected Output,Actual Output,False Output,Correctness %,ValidatorRuntime in s
+100000,NANOSECONDS,ProcessingTimes,CHCJPT-1-ProcessingTimes,true,false,1949232.8,925.0,2154569.0,1063185.81,1802884,1802884,1802884,0,100.0,840

@@ -1,0 +1,2 @@
+sendingInterval,sendingIntervalTimeUnit,Query,Topic,Correct,RT-Fulfilled,RT-90%ile in ms,RT-Min in ms,RT-Max in ms,RT-Mean in ms,Input,Expected Output,Actual Output,False Output,Correctness %,ValidatorRuntime in s
+100000,NANOSECONDS,ProcessingTimes,FSPARKPT-8-ProcessingTimes,true,false,1809814.1,2877.0,2004547.0,1006241.8,1802884,1802884,1802884,0,100.0,842

@@ -1,0 +1,2 @@
+sendingInterval,sendingIntervalTimeUnit,Query,Topic,Correct,RT-Fulfilled,RT-90%ile in ms,RT-Min in ms,RT-Max in ms,RT-Mean in ms,Input,Expected Output,Actual Output,False Output,Correctness %,ValidatorRuntime in s
+100000,NANOSECONDS,StochasticOutlierSelection,CFLINKSOS-3-StochasticOutlierSelection,true,false,8187203.6,58262.0,9172434.0,4620407.42,2997855,208419,208419,0,100.0,6646

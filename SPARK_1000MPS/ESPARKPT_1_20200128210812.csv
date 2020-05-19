@@ -1,0 +1,2 @@
+sendingInterval,sendingIntervalTimeUnit,Query,Topic,Correct,RT-Fulfilled,RT-90%ile in ms,RT-Min in ms,RT-Max in ms,RT-Mean in ms,Input,Expected Output,Actual Output,False Output,Correctness %,ValidatorRuntime in s
+1000000,NANOSECONDS,ProcessingTimes,ESPARKPT-1-ProcessingTimes,true,false,102491.7,787.0,114062.0,61413.17,299797,299797,299797,0,100.0,151

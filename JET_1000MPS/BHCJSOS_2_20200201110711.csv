@@ -1,0 +1,2 @@
+sendingInterval,sendingIntervalTimeUnit,Query,Topic,Correct,RT-Fulfilled,RT-90%ile in ms,RT-Min in ms,RT-Max in ms,RT-Mean in ms,Input,Expected Output,Actual Output,False Output,Correctness %,ValidatorRuntime in s
+1000000,NANOSECONDS,StochasticOutlierSelection,BHCJSOS-2-StochasticOutlierSelection,true,false,525746.0,4797.0,590400.0,300552.68,299797,20857,20857,0,100.0,695
